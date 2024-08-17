@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 7-Segment-Anzeige
+D Inductor
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+#End Doc Library

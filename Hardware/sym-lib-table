@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 7-Segment-Anzeige)(type Legacy)(uri ${KIPRJMOD}/7-Segment-Anzeige.lib)(options "")(descr ""))
+  (lib (name kneipp-thermometer-rescue)(type Legacy)(uri ${KIPRJMOD}/kneipp-thermometer-rescue.lib)(options "")(descr ""))
+)

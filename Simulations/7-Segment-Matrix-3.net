@@ -1,0 +1,31 @@
+* Z:\home\fritz\Nextcloud\Elektroniknode\kneippometer\Simulationen\7-Segment-Matrix-3.asc
+M1 N4 0 0 0 IRFZ24
+M2 N3 0 0 0 IRFZ24
+M3 N2 0 0 0 IRFZ24
+M4 N1 0 0 0 IRFZ24
+R1 N005 COL1 4.2
+R2 N006 COL2 4.3
+R3 N003 COL1 4
+R4 N004 COL2 4.1
+M5 COL1 0 0 0 IRFZ24
+M6 COL2 V+ 0 0 IRFZ24
+M7 N1 V+ V+ V+ IRF7343P
+M8 N2 V+ V+ V+ IRF7343P
+M9 N3 0 V+ V+ IRF7343P
+M10 N4 0 V+ V+ IRF7343P
+M11 COL1 0 V+ V+ IRF7343P
+M12 COL2 V+ V+ V+ IRF7343P
+V1 N001 0 6
+L1 N003 N3 10m
+L2 N004 N4 10m
+L3 N005 N1 10m
+L4 N006 N2 10m
+M13 V+ N002 N001 N001 IRF7343P
+V2 N002 0 PULSE(6 0 1m 100n 100n 10m)
+.model NMOS NMOS
+.model PMOS PMOS
+.lib C:\Programme\LTC\LTspiceIV\lib\cmp\standard.mos
+;op
+.tran 20m
+.backanno
+.end

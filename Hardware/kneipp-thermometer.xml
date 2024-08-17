@@ -1,0 +1,2738 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/home/martin/Otelo/Elektroniknode/kneippometer/Schaltplan/kneipp-thermometer.sch</source>
+    <date>Thu 28 Jan 2021 16:21:37 CET</date>
+    <tool>Eeschema 5.1.5+dfsg1-2build2</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>kneipp-thermometer.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/B3/" tstamps="/5EF5EFFD/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridge.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/B6/" tstamps="/5EF64DA2/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridge.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/B5/" tstamps="/5EF62A6D/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridge.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/B4/" tstamps="/5EF614F8/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridge.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/B2/" tstamps="/5EF5C6ED/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridge.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/B1/" tstamps="/5EF4171C/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridge.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="8" name="/H1/" tstamps="/5EF6E859/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridgeTristate.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="9" name="/H2/" tstamps="/601782FD/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridgeTristate.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="10" name="/H3/" tstamps="/6018018E/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridgeTristate.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="11" name="/H4/" tstamps="/60189599/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridgeTristate.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="12" name="/H5/" tstamps="/601913FE/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridgeTristate.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="13" name="/H6/" tstamps="/601A5495/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridgeTristate.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="14" name="/H7/" tstamps="/601AD2DE/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridgeTristate.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="15" name="/H8/" tstamps="/60391B62/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridgeTristate.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="16" name="/H9/" tstamps="/60391B67/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridgeTristate.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="17" name="/H10/" tstamps="/60391B6C/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridgeTristate.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="18" name="/H11/" tstamps="/60391B71/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridgeTristate.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="19" name="/H12/" tstamps="/60391B76/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridgeTristate.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="20" name="/H13/" tstamps="/60391B7B/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridgeTristate.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="21" name="/H14/" tstamps="/60391B80/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridgeTristate.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="22" name="/H15/" tstamps="/603A7D36/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridgeTristate.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="23" name="/H17/" tstamps="/603A7D40/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridgeTristate.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="24" name="/H18/" tstamps="/603A7D45/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridgeTristate.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="25" name="/H19/" tstamps="/603A7D4A/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridgeTristate.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="26" name="/H20/" tstamps="/603A7D4F/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridgeTristate.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="27" name="/H21/" tstamps="/603A7D54/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridgeTristate.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="28" name="/H22/" tstamps="/603C03E7/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridgeTristate.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="29" name="/H23/" tstamps="/603C03EC/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridgeTristate.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="30" name="/H24/" tstamps="/603C03F1/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridgeTristate.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="31" name="/H25/" tstamps="/603C03F6/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridgeTristate.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="32" name="/H26/" tstamps="/603C03FB/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridgeTristate.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="33" name="/H27/" tstamps="/603C0400/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridgeTristate.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="34" name="/H28/" tstamps="/603C0405/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridgeTristate.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="35" name="/H16/" tstamps="/603A7D3B/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridgeTristate.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="36" name="/B7/" tstamps="/5EF65F57/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>halfBridge.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="U1">
+      <value>ATmega16A-PU</value>
+      <footprint>Package_DIP:DIP-40_W15.24mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8154-8-bit-AVR-ATmega16A_Datasheet.pdf</datasheet>
+      <libsource lib="kneipp-thermometer-rescue" part="ATmega16A-PU-MCU_Microchip_ATmega" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EEE61AD</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value>ISP</value>
+      <footprint>Connector_IDC:IDC-Header_2x03_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_02x03_Odd_Even" description="Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F10A33D</tstamp>
+    </comp>
+    <comp ref="Y1">
+      <value>4MHz</value>
+      <footprint>Crystal:Crystal_HC18-U_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Crystal" description="Two pin crystal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F17D08C</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>22p</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F183043</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>22p</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F183620</tstamp>
+    </comp>
+    <comp ref="J6">
+      <value>Rx/Tx</value>
+      <footprint>Connector_Molex:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F1ADED9</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F2073A6</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F20758D</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFBA46B</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>180k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EFBA96D</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>ULN2003A</value>
+      <footprint>Package_DIP:DIP-16_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/uln2003a.pdf</datasheet>
+      <libsource lib="Transistor_Array" part="ULN2003A" description="High Voltage, High Current Darlington Transistor Arrays, SOIC16/SOIC16W/DIP16/TSSOP16"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0218AE</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0EB8C8</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0EBB46</tstamp>
+    </comp>
+    <comp ref="L1">
+      <value>2.2mH</value>
+      <footprint>Inductor_THT:L_Radial_D24.4mm_P23.40mm_muRATA_1400series</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0B32B8</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>0.1</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F20198B</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>MAX4238ASA</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://datasheets.maximintegrated.com/en/ds/MAX4238-MAX4239.pdf</datasheet>
+      <libsource lib="Amplifier_Operational" part="MAX4238ASA" description="Ultra-Low Offset/Drift, Low-Noise, Precision Amplifiers, SOIC-8"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F23E17D</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F241D63</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F242314</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F2B4015</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F32EB8D</tstamp>
+    </comp>
+    <comp ref="F1">
+      <value>2.5A</value>
+      <footprint>footprints:Fuseholder5x20_horiz_open_inline_Type-I</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Fuse" description="Fuse"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F36A016</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>BATT</value>
+      <footprint>Connector:JWT_A3963_1x02_P3.96mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F3FDC3A</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F1EE135</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F1EE74B</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>2.2k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0D3C0D</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F08CDAA</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>ULN2003A</value>
+      <footprint>Package_DIP:DIP-16_W7.62mm_LongPads</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/uln2003a.pdf</datasheet>
+      <libsource lib="Transistor_Array" part="ULN2003A" description="High Voltage, High Current Darlington Transistor Arrays, SOIC16/SOIC16W/DIP16/TSSOP16"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0CB099</tstamp>
+    </comp>
+    <comp ref="Q3">
+      <value>BC327</value>
+      <footprint>Package_TO_SOT_THT:TO-92_HandSolder</footprint>
+      <datasheet>http://www.onsemi.com/pub_link/Collateral/BC327-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="BC327" description="0.8A Ic, 45V Vce, PNP Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F370076</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>5.6k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F423AB7</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>5.6k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F4240A5</tstamp>
+    </comp>
+    <comp ref="Q2">
+      <value>BC547</value>
+      <footprint>Package_TO_SOT_THT:TO-92_HandSolder</footprint>
+      <datasheet>http://www.fairchildsemi.com/ds/BC/BC547.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="BC547" description="0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F55D717</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>220µF</value>
+      <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="CP" description="Polarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F579744</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>470µF</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="CP" description="Polarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F5CCAE0</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>TempAir</value>
+      <footprint>Connector_Molex:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F5E4E2B</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value>TempWater</value>
+      <footprint>Connector_Molex:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F5E921C</tstamp>
+    </comp>
+    <comp ref="U5">
+      <value>TC1017-xCT</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/21813F.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="TC1017-xCT" description="150mA, Tiny CMOS LDO With Shutdown, SOT-23-5"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F3BE7C6</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>SOLAR</value>
+      <footprint>Connector:JWT_A3963_1x02_P3.96mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F44456C</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>DP2X414</value>
+      <footprint>Diode_SMD:D_SMF</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0C4D41</tstamp>
+    </comp>
+    <comp ref="Q4">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0F997D</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>1µF</value>
+      <footprint>Capacitor_THT:C_Radial_D10.0mm_H12.5mm_P5.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F726C6E</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>22µF</value>
+      <footprint>Capacitor_THT:C_Radial_D10.0mm_H12.5mm_P5.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F77180F</tstamp>
+    </comp>
+    <comp ref="TP1">
+      <value>TestPoint GND</value>
+      <footprint>Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_2Pole" description="2-polar test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F456343</tstamp>
+    </comp>
+    <comp ref="L2">
+      <value>7-Segment-Anzeige</value>
+      <footprint>7-Segment-Anzeige:7-Segment-Anzeige</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="7-Segment-Anzeige" part="7-Segment-Anzeige" description="Inductor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EEF24B8</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>2k2</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6031D280</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>2k2</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6031DAA1</tstamp>
+    </comp>
+    <comp ref="L3">
+      <value>7-Segment-Anzeige</value>
+      <footprint>7-Segment-Anzeige:7-Segment-Anzeige</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="7-Segment-Anzeige" part="7-Segment-Anzeige" description="Inductor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60391B5D</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>2k2</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60391BB9</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>2k2</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60391BC1</tstamp>
+    </comp>
+    <comp ref="L4">
+      <value>7-Segment-Anzeige</value>
+      <footprint>7-Segment-Anzeige:7-Segment-Anzeige</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="7-Segment-Anzeige" part="7-Segment-Anzeige" description="Inductor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>603A7D31</tstamp>
+    </comp>
+    <comp ref="R18">
+      <value>2k2</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>603A7D8D</tstamp>
+    </comp>
+    <comp ref="R19">
+      <value>2k2</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>603A7D95</tstamp>
+    </comp>
+    <comp ref="L5">
+      <value>7-Segment-Anzeige</value>
+      <footprint>7-Segment-Anzeige:7-Segment-Anzeige</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="7-Segment-Anzeige" part="7-Segment-Anzeige" description="Inductor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>603C03E2</tstamp>
+    </comp>
+    <comp ref="R20">
+      <value>2k2</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>603C043E</tstamp>
+    </comp>
+    <comp ref="R27">
+      <value>2k2</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>603C0446</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60A1253C</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60AAF856</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60B03F5C</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60B30C0F</tstamp>
+    </comp>
+    <comp ref="Q7">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/B3/" tstamps="/5EF5EFFD/"/>
+      <tstamp>5F69A29C</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>2.2k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/B3/" tstamps="/5EF5EFFD/"/>
+      <tstamp>5EF44D96</tstamp>
+    </comp>
+    <comp ref="Q8">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/B3/" tstamps="/5EF5EFFD/"/>
+      <tstamp>5EF44DA2</tstamp>
+    </comp>
+    <comp ref="Q17">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/B6/" tstamps="/5EF64DA2/"/>
+      <tstamp>5F69A29C</tstamp>
+    </comp>
+    <comp ref="R22">
+      <value>2.2k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/B6/" tstamps="/5EF64DA2/"/>
+      <tstamp>5EF44D96</tstamp>
+    </comp>
+    <comp ref="Q18">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/B6/" tstamps="/5EF64DA2/"/>
+      <tstamp>5EF44DA2</tstamp>
+    </comp>
+    <comp ref="Q19">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/B5/" tstamps="/5EF62A6D/"/>
+      <tstamp>5F69A29C</tstamp>
+    </comp>
+    <comp ref="R23">
+      <value>2.2k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/B5/" tstamps="/5EF62A6D/"/>
+      <tstamp>5EF44D96</tstamp>
+    </comp>
+    <comp ref="Q20">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/B5/" tstamps="/5EF62A6D/"/>
+      <tstamp>5EF44DA2</tstamp>
+    </comp>
+    <comp ref="Q21">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/B4/" tstamps="/5EF614F8/"/>
+      <tstamp>5F69A29C</tstamp>
+    </comp>
+    <comp ref="R24">
+      <value>2.2k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/B4/" tstamps="/5EF614F8/"/>
+      <tstamp>5EF44D96</tstamp>
+    </comp>
+    <comp ref="Q22">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/B4/" tstamps="/5EF614F8/"/>
+      <tstamp>5EF44DA2</tstamp>
+    </comp>
+    <comp ref="Q23">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/B2/" tstamps="/5EF5C6ED/"/>
+      <tstamp>5F69A29C</tstamp>
+    </comp>
+    <comp ref="R25">
+      <value>2.2k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/B2/" tstamps="/5EF5C6ED/"/>
+      <tstamp>5EF44D96</tstamp>
+    </comp>
+    <comp ref="Q24">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/B2/" tstamps="/5EF5C6ED/"/>
+      <tstamp>5EF44DA2</tstamp>
+    </comp>
+    <comp ref="Q25">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/B1/" tstamps="/5EF4171C/"/>
+      <tstamp>5F69A29C</tstamp>
+    </comp>
+    <comp ref="R26">
+      <value>2.2k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/B1/" tstamps="/5EF4171C/"/>
+      <tstamp>5EF44D96</tstamp>
+    </comp>
+    <comp ref="Q26">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/B1/" tstamps="/5EF4171C/"/>
+      <tstamp>5EF44DA2</tstamp>
+    </comp>
+    <comp ref="Q5">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H1/" tstamps="/5EF6E859/"/>
+      <tstamp>5EF44D90</tstamp>
+    </comp>
+    <comp ref="Q6">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H1/" tstamps="/5EF6E859/"/>
+      <tstamp>5F69A29E</tstamp>
+    </comp>
+    <comp ref="Q9">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H2/" tstamps="/601782FD/"/>
+      <tstamp>5EF44D90</tstamp>
+    </comp>
+    <comp ref="Q10">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H2/" tstamps="/601782FD/"/>
+      <tstamp>5F69A29E</tstamp>
+    </comp>
+    <comp ref="Q11">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H3/" tstamps="/6018018E/"/>
+      <tstamp>5EF44D90</tstamp>
+    </comp>
+    <comp ref="Q12">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H3/" tstamps="/6018018E/"/>
+      <tstamp>5F69A29E</tstamp>
+    </comp>
+    <comp ref="Q13">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H4/" tstamps="/60189599/"/>
+      <tstamp>5EF44D90</tstamp>
+    </comp>
+    <comp ref="Q14">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H4/" tstamps="/60189599/"/>
+      <tstamp>5F69A29E</tstamp>
+    </comp>
+    <comp ref="Q27">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H5/" tstamps="/601913FE/"/>
+      <tstamp>5EF44D90</tstamp>
+    </comp>
+    <comp ref="Q28">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H5/" tstamps="/601913FE/"/>
+      <tstamp>5F69A29E</tstamp>
+    </comp>
+    <comp ref="Q29">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H6/" tstamps="/601A5495/"/>
+      <tstamp>5EF44D90</tstamp>
+    </comp>
+    <comp ref="Q30">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H6/" tstamps="/601A5495/"/>
+      <tstamp>5F69A29E</tstamp>
+    </comp>
+    <comp ref="Q31">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H7/" tstamps="/601AD2DE/"/>
+      <tstamp>5EF44D90</tstamp>
+    </comp>
+    <comp ref="Q32">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H7/" tstamps="/601AD2DE/"/>
+      <tstamp>5F69A29E</tstamp>
+    </comp>
+    <comp ref="Q33">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H8/" tstamps="/60391B62/"/>
+      <tstamp>5EF44D90</tstamp>
+    </comp>
+    <comp ref="Q34">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H8/" tstamps="/60391B62/"/>
+      <tstamp>5F69A29E</tstamp>
+    </comp>
+    <comp ref="Q35">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H9/" tstamps="/60391B67/"/>
+      <tstamp>5EF44D90</tstamp>
+    </comp>
+    <comp ref="Q36">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H9/" tstamps="/60391B67/"/>
+      <tstamp>5F69A29E</tstamp>
+    </comp>
+    <comp ref="Q37">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H10/" tstamps="/60391B6C/"/>
+      <tstamp>5EF44D90</tstamp>
+    </comp>
+    <comp ref="Q38">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H10/" tstamps="/60391B6C/"/>
+      <tstamp>5F69A29E</tstamp>
+    </comp>
+    <comp ref="Q39">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H11/" tstamps="/60391B71/"/>
+      <tstamp>5EF44D90</tstamp>
+    </comp>
+    <comp ref="Q40">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H11/" tstamps="/60391B71/"/>
+      <tstamp>5F69A29E</tstamp>
+    </comp>
+    <comp ref="Q41">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H12/" tstamps="/60391B76/"/>
+      <tstamp>5EF44D90</tstamp>
+    </comp>
+    <comp ref="Q42">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H12/" tstamps="/60391B76/"/>
+      <tstamp>5F69A29E</tstamp>
+    </comp>
+    <comp ref="Q43">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H13/" tstamps="/60391B7B/"/>
+      <tstamp>5EF44D90</tstamp>
+    </comp>
+    <comp ref="Q44">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H13/" tstamps="/60391B7B/"/>
+      <tstamp>5F69A29E</tstamp>
+    </comp>
+    <comp ref="Q45">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H14/" tstamps="/60391B80/"/>
+      <tstamp>5EF44D90</tstamp>
+    </comp>
+    <comp ref="Q46">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H14/" tstamps="/60391B80/"/>
+      <tstamp>5F69A29E</tstamp>
+    </comp>
+    <comp ref="Q47">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H15/" tstamps="/603A7D36/"/>
+      <tstamp>5EF44D90</tstamp>
+    </comp>
+    <comp ref="Q48">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H15/" tstamps="/603A7D36/"/>
+      <tstamp>5F69A29E</tstamp>
+    </comp>
+    <comp ref="Q49">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H17/" tstamps="/603A7D40/"/>
+      <tstamp>5EF44D90</tstamp>
+    </comp>
+    <comp ref="Q50">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H17/" tstamps="/603A7D40/"/>
+      <tstamp>5F69A29E</tstamp>
+    </comp>
+    <comp ref="Q51">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H18/" tstamps="/603A7D45/"/>
+      <tstamp>5EF44D90</tstamp>
+    </comp>
+    <comp ref="Q52">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H18/" tstamps="/603A7D45/"/>
+      <tstamp>5F69A29E</tstamp>
+    </comp>
+    <comp ref="Q53">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H19/" tstamps="/603A7D4A/"/>
+      <tstamp>5EF44D90</tstamp>
+    </comp>
+    <comp ref="Q54">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H19/" tstamps="/603A7D4A/"/>
+      <tstamp>5F69A29E</tstamp>
+    </comp>
+    <comp ref="Q55">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H20/" tstamps="/603A7D4F/"/>
+      <tstamp>5EF44D90</tstamp>
+    </comp>
+    <comp ref="Q56">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H20/" tstamps="/603A7D4F/"/>
+      <tstamp>5F69A29E</tstamp>
+    </comp>
+    <comp ref="Q57">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H21/" tstamps="/603A7D54/"/>
+      <tstamp>5EF44D90</tstamp>
+    </comp>
+    <comp ref="Q58">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H21/" tstamps="/603A7D54/"/>
+      <tstamp>5F69A29E</tstamp>
+    </comp>
+    <comp ref="Q59">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H22/" tstamps="/603C03E7/"/>
+      <tstamp>5EF44D90</tstamp>
+    </comp>
+    <comp ref="Q60">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H22/" tstamps="/603C03E7/"/>
+      <tstamp>5F69A29E</tstamp>
+    </comp>
+    <comp ref="Q61">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H23/" tstamps="/603C03EC/"/>
+      <tstamp>5EF44D90</tstamp>
+    </comp>
+    <comp ref="Q62">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H23/" tstamps="/603C03EC/"/>
+      <tstamp>5F69A29E</tstamp>
+    </comp>
+    <comp ref="Q63">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H24/" tstamps="/603C03F1/"/>
+      <tstamp>5EF44D90</tstamp>
+    </comp>
+    <comp ref="Q64">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H24/" tstamps="/603C03F1/"/>
+      <tstamp>5F69A29E</tstamp>
+    </comp>
+    <comp ref="Q65">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H25/" tstamps="/603C03F6/"/>
+      <tstamp>5EF44D90</tstamp>
+    </comp>
+    <comp ref="Q66">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H25/" tstamps="/603C03F6/"/>
+      <tstamp>5F69A29E</tstamp>
+    </comp>
+    <comp ref="Q67">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H26/" tstamps="/603C03FB/"/>
+      <tstamp>5EF44D90</tstamp>
+    </comp>
+    <comp ref="Q68">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H26/" tstamps="/603C03FB/"/>
+      <tstamp>5F69A29E</tstamp>
+    </comp>
+    <comp ref="Q69">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H27/" tstamps="/603C0400/"/>
+      <tstamp>5EF44D90</tstamp>
+    </comp>
+    <comp ref="Q70">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H27/" tstamps="/603C0400/"/>
+      <tstamp>5F69A29E</tstamp>
+    </comp>
+    <comp ref="Q71">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H28/" tstamps="/603C0405/"/>
+      <tstamp>5EF44D90</tstamp>
+    </comp>
+    <comp ref="Q72">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H28/" tstamps="/603C0405/"/>
+      <tstamp>5F69A29E</tstamp>
+    </comp>
+    <comp ref="Q73">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H16/" tstamps="/603A7D3B/"/>
+      <tstamp>5EF44D90</tstamp>
+    </comp>
+    <comp ref="Q74">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/H16/" tstamps="/603A7D3B/"/>
+      <tstamp>5F69A29E</tstamp>
+    </comp>
+    <comp ref="Q15">
+      <value>DMP 3098L7 DII</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/B7/" tstamps="/5EF65F57/"/>
+      <tstamp>5F69A29C</tstamp>
+    </comp>
+    <comp ref="R21">
+      <value>2.2k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/B7/" tstamps="/5EF65F57/"/>
+      <tstamp>5EF44D96</tstamp>
+    </comp>
+    <comp ref="Q16">
+      <value>AO3418</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <sheetpath names="/B7/" tstamps="/5EF65F57/"/>
+      <tstamp>5EF44DA2</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="7-Segment-Anzeige" part="7-Segment-Anzeige">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">7-Segment-Anzeige</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+        <pin num="10" name="10" type="passive"/>
+        <pin num="11" name="11" type="passive"/>
+        <pin num="12" name="12" type="passive"/>
+        <pin num="13" name="13" type="passive"/>
+        <pin num="14" name="14" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Amplifier_Operational" part="MAX4238ASA">
+      <aliases>
+        <alias>MAX4239ASA</alias>
+      </aliases>
+      <description>Ultra-Low Offset/Drift, Low-Noise, Precision Amplifiers, SOIC-8</description>
+      <docs>http://datasheets.maximintegrated.com/en/ds/MAX4238-MAX4239.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MAX4238ASA</field>
+        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~SHDN" type="input"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="NC" type="NotConnected"/>
+        <pin num="6" name="~" type="output"/>
+        <pin num="7" name="V+" type="power_in"/>
+        <pin num="8" name="NC" type="NotConnected"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x03_Male">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_Male</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint_2Pole">
+      <description>2-polar test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint_2Pole</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x03">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x03_Odd_Even">
+      <description>Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x03_Odd_Even</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="CP">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal">
+      <description>Two pin crystal</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Fuse">
+      <description>Fuse</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*Fuse*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Fuse</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_NMOS_GSD">
+      <description>N-MOSFET transistor, gate/source/drain</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NMOS_GSD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_PMOS_GSD">
+      <description>P-MOSFET transistor, gate/source/drain</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_PMOS_GSD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="TC1017-xCT">
+      <description>150mA, Tiny CMOS LDO With Shutdown, SOT-23-5</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/21813F.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TC1017-xCT</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="~SHDN" type="input"/>
+        <pin num="4" name="NC" type="NotConnected"/>
+        <pin num="5" name="VOUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_Array" part="ULN2003">
+      <aliases>
+        <alias>ULN2003A</alias>
+        <alias>ULN2002</alias>
+        <alias>ULN2002A</alias>
+        <alias>ULN2004</alias>
+        <alias>ULN2004A</alias>
+      </aliases>
+      <description>High Voltage, High Current Darlington Transistor Arrays, SOIC16/SOIC16W/DIP16/TSSOP16</description>
+      <docs>http://www.ti.com/lit/ds/symlink/uln2003a.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>SOIC*3.9x9.9mm*P1.27mm*</fp>
+        <fp>SSOP*4.4x5.2mm*P0.65mm*</fp>
+        <fp>TSSOP*4.4x5mm*P0.65mm*</fp>
+        <fp>SOIC*W*5.3x10.2mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ULN2003</field>
+      </fields>
+      <pins>
+        <pin num="1" name="I1" type="input"/>
+        <pin num="2" name="I2" type="input"/>
+        <pin num="3" name="I3" type="input"/>
+        <pin num="4" name="I4" type="input"/>
+        <pin num="5" name="I5" type="input"/>
+        <pin num="6" name="I6" type="input"/>
+        <pin num="7" name="I7" type="input"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="COM" type="passive"/>
+        <pin num="10" name="O7" type="openCol"/>
+        <pin num="11" name="O6" type="openCol"/>
+        <pin num="12" name="O5" type="openCol"/>
+        <pin num="13" name="O4" type="openCol"/>
+        <pin num="14" name="O3" type="openCol"/>
+        <pin num="15" name="O2" type="openCol"/>
+        <pin num="16" name="O1" type="openCol"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="BC547">
+      <aliases>
+        <alias>BC546</alias>
+        <alias>BC548</alias>
+        <alias>BC549</alias>
+        <alias>BC550</alias>
+        <alias>BC337</alias>
+        <alias>BC338</alias>
+      </aliases>
+      <description>0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92</description>
+      <docs>http://www.fairchildsemi.com/ds/BC/BC547.pdf</docs>
+      <footprints>
+        <fp>TO?92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BC547</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
+      </fields>
+      <pins>
+        <pin num="1" name="C" type="passive"/>
+        <pin num="2" name="B" type="input"/>
+        <pin num="3" name="E" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="BC557">
+      <aliases>
+        <alias>BC556</alias>
+        <alias>BC558</alias>
+        <alias>BC559</alias>
+        <alias>BC560</alias>
+        <alias>BC327</alias>
+        <alias>BC328</alias>
+      </aliases>
+      <description>0.1A Ic, 45V Vce, PNP Small Signal Transistor, TO-92</description>
+      <docs>http://www.fairchildsemi.com/ds/BC/BC557.pdf</docs>
+      <footprints>
+        <fp>TO?92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BC557</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
+      </fields>
+      <pins>
+        <pin num="1" name="C" type="passive"/>
+        <pin num="2" name="B" type="input"/>
+        <pin num="3" name="E" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="kneipp-thermometer-rescue" part="ATmega16A-PU-MCU_Microchip_ATmega">
+      <footprints>
+        <fp>DIP*W15.24mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ATmega16A-PU-MCU_Microchip_ATmega</field>
+        <field name="Footprint">Package_DIP:DIP-40_W15.24mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PB0" type="3state"/>
+        <pin num="2" name="PB1" type="3state"/>
+        <pin num="3" name="PB2" type="3state"/>
+        <pin num="4" name="PB3" type="3state"/>
+        <pin num="5" name="PB4" type="3state"/>
+        <pin num="6" name="PB5" type="3state"/>
+        <pin num="7" name="PB6" type="3state"/>
+        <pin num="8" name="PB7" type="3state"/>
+        <pin num="9" name="~RESET" type="input"/>
+        <pin num="10" name="VCC" type="power_in"/>
+        <pin num="11" name="GND" type="power_in"/>
+        <pin num="12" name="XTAL2" type="output"/>
+        <pin num="13" name="XTAL1" type="input"/>
+        <pin num="14" name="PD0" type="3state"/>
+        <pin num="15" name="PD1" type="3state"/>
+        <pin num="16" name="PD2" type="3state"/>
+        <pin num="17" name="PD3" type="3state"/>
+        <pin num="18" name="PD4" type="3state"/>
+        <pin num="19" name="PD5" type="3state"/>
+        <pin num="20" name="PD6" type="3state"/>
+        <pin num="21" name="PD7" type="3state"/>
+        <pin num="22" name="PC0" type="3state"/>
+        <pin num="23" name="PC1" type="3state"/>
+        <pin num="24" name="PC2" type="3state"/>
+        <pin num="25" name="PC3" type="3state"/>
+        <pin num="26" name="PC4" type="3state"/>
+        <pin num="27" name="PC5" type="3state"/>
+        <pin num="28" name="PC6" type="3state"/>
+        <pin num="29" name="PC7" type="3state"/>
+        <pin num="30" name="AVCC" type="power_in"/>
+        <pin num="31" name="GND" type="passive"/>
+        <pin num="32" name="AREF" type="passive"/>
+        <pin num="33" name="PA7" type="3state"/>
+        <pin num="34" name="PA6" type="3state"/>
+        <pin num="35" name="PA5" type="3state"/>
+        <pin num="36" name="PA4" type="3state"/>
+        <pin num="37" name="PA3" type="3state"/>
+        <pin num="38" name="PA2" type="3state"/>
+        <pin num="39" name="PA1" type="3state"/>
+        <pin num="40" name="PA0" type="3state"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="7-Segment-Anzeige">
+      <uri>/home/martin/Otelo/Elektroniknode/kneippometer/Schaltplan/7-Segment-Anzeige.lib</uri>
+    </library>
+    <library logical="Amplifier_Operational">
+      <uri>/usr/share/kicad/library/Amplifier_Operational.lib</uri>
+    </library>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/library/Connector.lib</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/usr/share/kicad/library/Connector_Generic.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/library/Device.lib</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>/usr/share/kicad/library/Regulator_Linear.lib</uri>
+    </library>
+    <library logical="Switch">
+      <uri>/usr/share/kicad/library/Switch.lib</uri>
+    </library>
+    <library logical="Transistor_Array">
+      <uri>/usr/share/kicad/library/Transistor_Array.lib</uri>
+    </library>
+    <library logical="Transistor_BJT">
+      <uri>/usr/share/kicad/library/Transistor_BJT.lib</uri>
+    </library>
+    <library logical="kneipp-thermometer-rescue">
+      <uri>/home/martin/Otelo/Elektroniknode/kneippometer/Schaltplan/kneipp-thermometer-rescue.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/H12/O">
+      <node ref="Q41" pin="3"/>
+      <node ref="Q42" pin="3"/>
+      <node ref="L3" pin="10"/>
+    </net>
+    <net code="2" name="/H13/O">
+      <node ref="Q43" pin="3"/>
+      <node ref="L3" pin="12"/>
+      <node ref="Q44" pin="3"/>
+    </net>
+    <net code="3" name="/H14/O">
+      <node ref="L3" pin="14"/>
+      <node ref="Q46" pin="3"/>
+      <node ref="Q45" pin="3"/>
+    </net>
+    <net code="4" name="/B2/Output">
+      <node ref="L2" pin="3"/>
+      <node ref="L5" pin="3"/>
+      <node ref="L4" pin="3"/>
+      <node ref="Q24" pin="3"/>
+      <node ref="Q23" pin="3"/>
+      <node ref="L3" pin="3"/>
+    </net>
+    <net code="5" name="/B7/Output">
+      <node ref="L5" pin="13"/>
+      <node ref="L4" pin="13"/>
+      <node ref="L2" pin="13"/>
+      <node ref="L3" pin="13"/>
+      <node ref="Q15" pin="3"/>
+      <node ref="Q16" pin="3"/>
+    </net>
+    <net code="6" name="/B6/Output">
+      <node ref="L3" pin="11"/>
+      <node ref="Q18" pin="3"/>
+      <node ref="Q17" pin="3"/>
+      <node ref="L4" pin="11"/>
+      <node ref="L2" pin="11"/>
+      <node ref="L5" pin="11"/>
+    </net>
+    <net code="7" name="/H8/O">
+      <node ref="Q33" pin="3"/>
+      <node ref="L3" pin="2"/>
+      <node ref="Q34" pin="3"/>
+    </net>
+    <net code="8" name="/H9/O">
+      <node ref="L3" pin="4"/>
+      <node ref="Q36" pin="3"/>
+      <node ref="Q35" pin="3"/>
+    </net>
+    <net code="9" name="/H10/O">
+      <node ref="L3" pin="6"/>
+      <node ref="Q38" pin="3"/>
+      <node ref="Q37" pin="3"/>
+    </net>
+    <net code="10" name="/H11/O">
+      <node ref="Q39" pin="3"/>
+      <node ref="L3" pin="8"/>
+      <node ref="Q40" pin="3"/>
+    </net>
+    <net code="11" name="/HIGH9">
+      <node ref="U2" pin="15"/>
+      <node ref="Q35" pin="1"/>
+      <node ref="Q33" pin="1"/>
+      <node ref="Q41" pin="1"/>
+      <node ref="Q37" pin="1"/>
+      <node ref="Q43" pin="1"/>
+      <node ref="Q45" pin="1"/>
+      <node ref="Q39" pin="1"/>
+      <node ref="R16" pin="1"/>
+    </net>
+    <net code="12" name="/H19/O">
+      <node ref="Q54" pin="3"/>
+      <node ref="Q53" pin="3"/>
+      <node ref="L4" pin="10"/>
+    </net>
+    <net code="13" name="/H20/O">
+      <node ref="Q56" pin="3"/>
+      <node ref="Q55" pin="3"/>
+      <node ref="L4" pin="12"/>
+    </net>
+    <net code="14" name="/H21/O">
+      <node ref="L4" pin="14"/>
+      <node ref="Q57" pin="3"/>
+      <node ref="Q58" pin="3"/>
+    </net>
+    <net code="15" name="/H15/O">
+      <node ref="Q48" pin="3"/>
+      <node ref="L4" pin="2"/>
+      <node ref="Q47" pin="3"/>
+    </net>
+    <net code="16" name="+6V">
+      <node ref="Q19" pin="2"/>
+      <node ref="Q57" pin="2"/>
+      <node ref="R23" pin="1"/>
+      <node ref="Q29" pin="2"/>
+      <node ref="Q41" pin="2"/>
+      <node ref="Q49" pin="2"/>
+      <node ref="R18" pin="2"/>
+      <node ref="Q33" pin="2"/>
+      <node ref="Q25" pin="2"/>
+      <node ref="Q7" pin="2"/>
+      <node ref="R26" pin="1"/>
+      <node ref="R14" pin="1"/>
+      <node ref="Q69" pin="2"/>
+      <node ref="Q51" pin="2"/>
+      <node ref="Q67" pin="2"/>
+      <node ref="Q43" pin="2"/>
+      <node ref="R25" pin="1"/>
+      <node ref="Q55" pin="2"/>
+      <node ref="Q53" pin="2"/>
+      <node ref="Q23" pin="2"/>
+      <node ref="Q71" pin="2"/>
+      <node ref="Q1" pin="3"/>
+      <node ref="Q9" pin="2"/>
+      <node ref="Q11" pin="2"/>
+      <node ref="Q47" pin="2"/>
+      <node ref="R21" pin="1"/>
+      <node ref="R13" pin="2"/>
+      <node ref="Q15" pin="2"/>
+      <node ref="R20" pin="2"/>
+      <node ref="Q5" pin="2"/>
+      <node ref="R16" pin="2"/>
+      <node ref="Q35" pin="2"/>
+      <node ref="Q37" pin="2"/>
+      <node ref="Q45" pin="2"/>
+      <node ref="Q61" pin="2"/>
+      <node ref="Q39" pin="2"/>
+      <node ref="R22" pin="1"/>
+      <node ref="Q31" pin="2"/>
+      <node ref="Q21" pin="2"/>
+      <node ref="Q17" pin="2"/>
+      <node ref="Q59" pin="2"/>
+      <node ref="Q73" pin="2"/>
+      <node ref="Q63" pin="2"/>
+      <node ref="Q65" pin="2"/>
+      <node ref="Q13" pin="2"/>
+      <node ref="R24" pin="1"/>
+      <node ref="Q27" pin="2"/>
+    </net>
+    <net code="17" name="GND">
+      <node ref="Q20" pin="2"/>
+      <node ref="U4" pin="3"/>
+      <node ref="U3" pin="8"/>
+      <node ref="U4" pin="4"/>
+      <node ref="Q44" pin="2"/>
+      <node ref="C4" pin="1"/>
+      <node ref="Q32" pin="2"/>
+      <node ref="J3" pin="1"/>
+      <node ref="Q46" pin="2"/>
+      <node ref="Q3" pin="1"/>
+      <node ref="Q38" pin="2"/>
+      <node ref="U1" pin="11"/>
+      <node ref="J5" pin="6"/>
+      <node ref="Q18" pin="2"/>
+      <node ref="J4" pin="1"/>
+      <node ref="Q34" pin="2"/>
+      <node ref="R17" pin="1"/>
+      <node ref="Q36" pin="2"/>
+      <node ref="U1" pin="31"/>
+      <node ref="R3" pin="2"/>
+      <node ref="J1" pin="1"/>
+      <node ref="R5" pin="2"/>
+      <node ref="Q70" pin="2"/>
+      <node ref="Q72" pin="2"/>
+      <node ref="U2" pin="8"/>
+      <node ref="Q40" pin="2"/>
+      <node ref="C10" pin="1"/>
+      <node ref="Q42" pin="2"/>
+      <node ref="U5" pin="2"/>
+      <node ref="Q62" pin="2"/>
+      <node ref="Q28" pin="2"/>
+      <node ref="Q14" pin="2"/>
+      <node ref="Q64" pin="2"/>
+      <node ref="Q60" pin="2"/>
+      <node ref="C11" pin="1"/>
+      <node ref="SW1" pin="1"/>
+      <node ref="D2" pin="1"/>
+      <node ref="Q6" pin="2"/>
+      <node ref="C7" pin="1"/>
+      <node ref="R15" pin="1"/>
+      <node ref="C5" pin="1"/>
+      <node ref="Q16" pin="2"/>
+      <node ref="R27" pin="1"/>
+      <node ref="TP1" pin="1"/>
+      <node ref="TP1" pin="2"/>
+      <node ref="Q12" pin="2"/>
+      <node ref="Q10" pin="2"/>
+      <node ref="Q68" pin="2"/>
+      <node ref="Q66" pin="2"/>
+      <node ref="R19" pin="1"/>
+      <node ref="Q50" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="C2" pin="2"/>
+      <node ref="Q52" pin="2"/>
+      <node ref="R10" pin="1"/>
+      <node ref="Q48" pin="2"/>
+      <node ref="C3" pin="2"/>
+      <node ref="Q22" pin="2"/>
+      <node ref="Q74" pin="2"/>
+      <node ref="J6" pin="1"/>
+      <node ref="Q26" pin="2"/>
+      <node ref="Q58" pin="2"/>
+      <node ref="C12" pin="1"/>
+      <node ref="Q30" pin="2"/>
+      <node ref="Q8" pin="2"/>
+      <node ref="Q54" pin="2"/>
+      <node ref="Q56" pin="2"/>
+      <node ref="Q24" pin="2"/>
+    </net>
+    <net code="18" name="/H2/O">
+      <node ref="Q9" pin="3"/>
+      <node ref="Q10" pin="3"/>
+      <node ref="L2" pin="4"/>
+    </net>
+    <net code="19" name="/HIGH8">
+      <node ref="Q13" pin="1"/>
+      <node ref="Q9" pin="1"/>
+      <node ref="Q27" pin="1"/>
+      <node ref="U2" pin="16"/>
+      <node ref="Q5" pin="1"/>
+      <node ref="Q29" pin="1"/>
+      <node ref="R13" pin="1"/>
+      <node ref="Q11" pin="1"/>
+      <node ref="Q31" pin="1"/>
+    </net>
+    <net code="20" name="/H3/O">
+      <node ref="Q11" pin="3"/>
+      <node ref="L2" pin="6"/>
+      <node ref="Q12" pin="3"/>
+    </net>
+    <net code="21" name="/H4/O">
+      <node ref="L2" pin="8"/>
+      <node ref="Q13" pin="3"/>
+      <node ref="Q14" pin="3"/>
+    </net>
+    <net code="22" name="/H5/O">
+      <node ref="Q27" pin="3"/>
+      <node ref="Q28" pin="3"/>
+      <node ref="L2" pin="10"/>
+    </net>
+    <net code="23" name="/H6/O">
+      <node ref="L2" pin="12"/>
+      <node ref="Q29" pin="3"/>
+      <node ref="Q30" pin="3"/>
+    </net>
+    <net code="24" name="/H7/O">
+      <node ref="Q31" pin="3"/>
+      <node ref="L2" pin="14"/>
+      <node ref="Q32" pin="3"/>
+    </net>
+    <net code="25" name="/LOW8">
+      <node ref="Q32" pin="1"/>
+      <node ref="U1" pin="5"/>
+      <node ref="Q12" pin="1"/>
+      <node ref="Q30" pin="1"/>
+      <node ref="Q6" pin="1"/>
+      <node ref="Q28" pin="1"/>
+      <node ref="Q10" pin="1"/>
+      <node ref="R15" pin="2"/>
+      <node ref="Q14" pin="1"/>
+    </net>
+    <net code="26" name="/LOW11">
+      <node ref="U1" pin="1"/>
+      <node ref="Q60" pin="1"/>
+      <node ref="Q72" pin="1"/>
+      <node ref="Q70" pin="1"/>
+      <node ref="Q66" pin="1"/>
+      <node ref="R27" pin="2"/>
+      <node ref="Q64" pin="1"/>
+      <node ref="Q68" pin="1"/>
+      <node ref="Q62" pin="1"/>
+    </net>
+    <net code="27" name="/LOW9">
+      <node ref="Q40" pin="1"/>
+      <node ref="Q38" pin="1"/>
+      <node ref="R17" pin="2"/>
+      <node ref="Q42" pin="1"/>
+      <node ref="Q44" pin="1"/>
+      <node ref="Q46" pin="1"/>
+      <node ref="Q34" pin="1"/>
+      <node ref="Q36" pin="1"/>
+      <node ref="U1" pin="3"/>
+    </net>
+    <net code="28" name="/LOW10">
+      <node ref="Q56" pin="1"/>
+      <node ref="Q54" pin="1"/>
+      <node ref="Q58" pin="1"/>
+      <node ref="U1" pin="2"/>
+      <node ref="Q48" pin="1"/>
+      <node ref="Q74" pin="1"/>
+      <node ref="Q52" pin="1"/>
+      <node ref="Q50" pin="1"/>
+      <node ref="R19" pin="2"/>
+    </net>
+    <net code="29" name="Net-(J6-Pad2)">
+      <node ref="U1" pin="15"/>
+      <node ref="J6" pin="2"/>
+    </net>
+    <net code="30" name="/B1/Output">
+      <node ref="L5" pin="1"/>
+      <node ref="Q26" pin="3"/>
+      <node ref="Q25" pin="3"/>
+      <node ref="L3" pin="1"/>
+      <node ref="L2" pin="1"/>
+      <node ref="L4" pin="1"/>
+    </net>
+    <net code="31" name="/H1/O">
+      <node ref="Q5" pin="3"/>
+      <node ref="Q6" pin="3"/>
+      <node ref="L2" pin="2"/>
+    </net>
+    <net code="32" name="/H16/O">
+      <node ref="L4" pin="4"/>
+      <node ref="Q74" pin="3"/>
+      <node ref="Q73" pin="3"/>
+    </net>
+    <net code="33" name="/H27/O">
+      <node ref="L5" pin="12"/>
+      <node ref="Q69" pin="3"/>
+      <node ref="Q70" pin="3"/>
+    </net>
+    <net code="34" name="/H28/O">
+      <node ref="Q72" pin="3"/>
+      <node ref="Q71" pin="3"/>
+      <node ref="L5" pin="14"/>
+    </net>
+    <net code="35" name="/HIGH11">
+      <node ref="Q63" pin="1"/>
+      <node ref="Q65" pin="1"/>
+      <node ref="R20" pin="1"/>
+      <node ref="Q61" pin="1"/>
+      <node ref="Q59" pin="1"/>
+      <node ref="U2" pin="13"/>
+      <node ref="Q71" pin="1"/>
+      <node ref="Q67" pin="1"/>
+      <node ref="Q69" pin="1"/>
+    </net>
+    <net code="36" name="+5V">
+      <node ref="J5" pin="2"/>
+      <node ref="U5" pin="5"/>
+      <node ref="U1" pin="10"/>
+      <node ref="R8" pin="1"/>
+      <node ref="C10" pin="2"/>
+      <node ref="U4" pin="7"/>
+      <node ref="U4" pin="1"/>
+      <node ref="C4" pin="2"/>
+      <node ref="C3" pin="1"/>
+      <node ref="J4" pin="2"/>
+      <node ref="J3" pin="2"/>
+      <node ref="C12" pin="2"/>
+      <node ref="U1" pin="30"/>
+    </net>
+    <net code="37" name="Net-(J6-Pad3)">
+      <node ref="J6" pin="3"/>
+      <node ref="U1" pin="14"/>
+    </net>
+    <net code="38" name="Net-(D2-Pad2)">
+      <node ref="R12" pin="1"/>
+      <node ref="D2" pin="2"/>
+    </net>
+    <net code="39" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1"/>
+      <node ref="Y1" pin="2"/>
+      <node ref="U1" pin="13"/>
+    </net>
+    <net code="40" name="Net-(R12-Pad2)">
+      <node ref="R12" pin="2"/>
+      <node ref="U1" pin="29"/>
+    </net>
+    <net code="41" name="/H26/O">
+      <node ref="Q67" pin="3"/>
+      <node ref="L5" pin="10"/>
+      <node ref="Q68" pin="3"/>
+    </net>
+    <net code="42" name="Net-(F1-Pad1)">
+      <node ref="J1" pin="2"/>
+      <node ref="F1" pin="1"/>
+    </net>
+    <net code="43" name="/B3/Output">
+      <node ref="Q8" pin="3"/>
+      <node ref="L5" pin="5"/>
+      <node ref="L2" pin="5"/>
+      <node ref="L4" pin="5"/>
+      <node ref="L3" pin="5"/>
+      <node ref="Q7" pin="3"/>
+    </net>
+    <net code="44" name="/H17/O">
+      <node ref="Q49" pin="3"/>
+      <node ref="Q50" pin="3"/>
+      <node ref="L4" pin="6"/>
+    </net>
+    <net code="45" name="/B4/Output">
+      <node ref="L2" pin="7"/>
+      <node ref="L3" pin="7"/>
+      <node ref="L4" pin="7"/>
+      <node ref="Q21" pin="3"/>
+      <node ref="L5" pin="7"/>
+      <node ref="Q22" pin="3"/>
+    </net>
+    <net code="46" name="/H18/O">
+      <node ref="L4" pin="8"/>
+      <node ref="Q51" pin="3"/>
+      <node ref="Q52" pin="3"/>
+    </net>
+    <net code="47" name="/B5/Output">
+      <node ref="Q20" pin="3"/>
+      <node ref="L2" pin="9"/>
+      <node ref="L3" pin="9"/>
+      <node ref="L4" pin="9"/>
+      <node ref="L5" pin="9"/>
+      <node ref="Q19" pin="3"/>
+    </net>
+    <net code="48" name="/HIGH10">
+      <node ref="Q55" pin="1"/>
+      <node ref="Q53" pin="1"/>
+      <node ref="Q73" pin="1"/>
+      <node ref="Q57" pin="1"/>
+      <node ref="R18" pin="1"/>
+      <node ref="Q47" pin="1"/>
+      <node ref="Q49" pin="1"/>
+      <node ref="Q51" pin="1"/>
+      <node ref="U2" pin="14"/>
+    </net>
+    <net code="49" name="/H22/O">
+      <node ref="L5" pin="2"/>
+      <node ref="Q59" pin="3"/>
+      <node ref="Q60" pin="3"/>
+    </net>
+    <net code="50" name="/H23/O">
+      <node ref="L5" pin="4"/>
+      <node ref="Q62" pin="3"/>
+      <node ref="Q61" pin="3"/>
+    </net>
+    <net code="51" name="/H24/O">
+      <node ref="L5" pin="6"/>
+      <node ref="Q64" pin="3"/>
+      <node ref="Q63" pin="3"/>
+    </net>
+    <net code="52" name="/H25/O">
+      <node ref="Q66" pin="3"/>
+      <node ref="Q65" pin="3"/>
+      <node ref="L5" pin="8"/>
+    </net>
+    <net code="53" name="+BATT">
+      <node ref="C11" pin="2"/>
+      <node ref="F1" pin="2"/>
+      <node ref="L1" pin="2"/>
+      <node ref="U5" pin="1"/>
+      <node ref="U5" pin="3"/>
+      <node ref="R1" pin="1"/>
+      <node ref="Q1" pin="2"/>
+      <node ref="C8" pin="1"/>
+      <node ref="R2" pin="1"/>
+    </net>
+    <net code="54" name="Net-(C6-Pad2)">
+      <node ref="R9" pin="2"/>
+      <node ref="R10" pin="2"/>
+      <node ref="D1" pin="2"/>
+      <node ref="C8" pin="2"/>
+      <node ref="J2" pin="1"/>
+      <node ref="C6" pin="2"/>
+    </net>
+    <net code="55" name="Net-(U4-Pad5)">
+      <node ref="U4" pin="5"/>
+    </net>
+    <net code="56" name="/B5/In">
+      <node ref="Q19" pin="1"/>
+      <node ref="U3" pin="12"/>
+      <node ref="Q20" pin="1"/>
+      <node ref="R23" pin="2"/>
+    </net>
+    <net code="57" name="/B3/In">
+      <node ref="Q7" pin="1"/>
+      <node ref="U3" pin="14"/>
+      <node ref="Q8" pin="1"/>
+      <node ref="R14" pin="2"/>
+    </net>
+    <net code="58" name="/B2/In">
+      <node ref="U3" pin="15"/>
+      <node ref="Q23" pin="1"/>
+      <node ref="R25" pin="2"/>
+      <node ref="Q24" pin="1"/>
+    </net>
+    <net code="59" name="/B1/In">
+      <node ref="Q26" pin="1"/>
+      <node ref="R26" pin="2"/>
+      <node ref="Q25" pin="1"/>
+      <node ref="U3" pin="16"/>
+    </net>
+    <net code="60" name="/PC5">
+      <node ref="U3" pin="2"/>
+      <node ref="U1" pin="27"/>
+    </net>
+    <net code="61" name="/PC4">
+      <node ref="U1" pin="26"/>
+      <node ref="U3" pin="3"/>
+    </net>
+    <net code="62" name="/PC3">
+      <node ref="U3" pin="4"/>
+      <node ref="U1" pin="25"/>
+    </net>
+    <net code="63" name="/PC2">
+      <node ref="U1" pin="24"/>
+      <node ref="U3" pin="5"/>
+    </net>
+    <net code="64" name="Net-(U3-Pad9)">
+      <node ref="U3" pin="9"/>
+    </net>
+    <net code="65" name="/B4/In">
+      <node ref="Q22" pin="1"/>
+      <node ref="R24" pin="2"/>
+      <node ref="Q21" pin="1"/>
+      <node ref="U3" pin="13"/>
+    </net>
+    <net code="66" name="/B7/In">
+      <node ref="Q16" pin="1"/>
+      <node ref="U3" pin="10"/>
+      <node ref="R21" pin="2"/>
+      <node ref="Q15" pin="1"/>
+    </net>
+    <net code="67" name="/B6/In">
+      <node ref="U3" pin="11"/>
+      <node ref="R22" pin="2"/>
+      <node ref="Q18" pin="1"/>
+      <node ref="Q17" pin="1"/>
+    </net>
+    <net code="68" name="Net-(U4-Pad8)">
+      <node ref="U4" pin="8"/>
+    </net>
+    <net code="69" name="Net-(C9-Pad2)">
+      <node ref="R11" pin="2"/>
+      <node ref="R9" pin="1"/>
+      <node ref="C9" pin="2"/>
+      <node ref="U4" pin="2"/>
+    </net>
+    <net code="70" name="/VShunt">
+      <node ref="R11" pin="1"/>
+      <node ref="C9" pin="1"/>
+      <node ref="U1" pin="38"/>
+      <node ref="U4" pin="6"/>
+    </net>
+    <net code="71" name="/MOSI">
+      <node ref="J5" pin="4"/>
+      <node ref="U1" pin="6"/>
+    </net>
+    <net code="72" name="/MISO">
+      <node ref="U1" pin="7"/>
+      <node ref="J5" pin="1"/>
+    </net>
+    <net code="73" name="/PC0">
+      <node ref="U3" pin="7"/>
+      <node ref="U1" pin="22"/>
+    </net>
+    <net code="74" name="Net-(U1-Pad16)">
+      <node ref="U1" pin="16"/>
+    </net>
+    <net code="75" name="Net-(U1-Pad17)">
+      <node ref="U1" pin="17"/>
+    </net>
+    <net code="76" name="Net-(U1-Pad18)">
+      <node ref="U1" pin="18"/>
+    </net>
+    <net code="77" name="Net-(U1-Pad21)">
+      <node ref="U1" pin="21"/>
+    </net>
+    <net code="78" name="/SCK">
+      <node ref="J5" pin="3"/>
+      <node ref="U1" pin="8"/>
+    </net>
+    <net code="79" name="/PC1">
+      <node ref="U1" pin="23"/>
+      <node ref="U3" pin="6"/>
+    </net>
+    <net code="80" name="Net-(U1-Pad32)">
+      <node ref="U1" pin="32"/>
+    </net>
+    <net code="81" name="VCC">
+      <node ref="J2" pin="2"/>
+      <node ref="Q2" pin="1"/>
+      <node ref="C6" pin="1"/>
+      <node ref="R6" pin="1"/>
+      <node ref="R4" pin="1"/>
+      <node ref="Q4" pin="2"/>
+    </net>
+    <net code="82" name="/RESET">
+      <node ref="U1" pin="9"/>
+      <node ref="J5" pin="5"/>
+      <node ref="SW1" pin="2"/>
+      <node ref="R8" pin="2"/>
+    </net>
+    <net code="83" name="Net-(C2-Pad1)">
+      <node ref="U1" pin="12"/>
+      <node ref="C2" pin="1"/>
+      <node ref="Y1" pin="1"/>
+    </net>
+    <net code="84" name="Net-(Q2-Pad3)">
+      <node ref="Q2" pin="3"/>
+      <node ref="Q3" pin="3"/>
+      <node ref="Q4" pin="1"/>
+    </net>
+    <net code="85" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1"/>
+      <node ref="Q4" pin="3"/>
+      <node ref="L1" pin="1"/>
+    </net>
+    <net code="86" name="Net-(U5-Pad4)">
+      <node ref="U5" pin="4"/>
+    </net>
+    <net code="87" name="/PC6">
+      <node ref="U3" pin="1"/>
+      <node ref="U1" pin="28"/>
+    </net>
+    <net code="88" name="/TempWater">
+      <node ref="J4" pin="3"/>
+      <node ref="U1" pin="20"/>
+    </net>
+    <net code="89" name="/TempAir">
+      <node ref="U1" pin="19"/>
+      <node ref="J3" pin="3"/>
+    </net>
+    <net code="90" name="/PA3">
+      <node ref="U2" pin="1"/>
+      <node ref="U1" pin="37"/>
+    </net>
+    <net code="91" name="/PA4">
+      <node ref="U1" pin="36"/>
+      <node ref="U2" pin="2"/>
+    </net>
+    <net code="92" name="/PA5">
+      <node ref="U1" pin="35"/>
+      <node ref="U2" pin="3"/>
+    </net>
+    <net code="93" name="/PA6">
+      <node ref="U2" pin="4"/>
+      <node ref="U1" pin="34"/>
+    </net>
+    <net code="94" name="/PA7">
+      <node ref="U2" pin="5"/>
+      <node ref="U1" pin="33"/>
+    </net>
+    <net code="95" name="Net-(Q1-Pad1)">
+      <node ref="U2" pin="12"/>
+      <node ref="Q1" pin="1"/>
+      <node ref="R1" pin="2"/>
+    </net>
+    <net code="96" name="Net-(U2-Pad10)">
+      <node ref="U2" pin="10"/>
+    </net>
+    <net code="97" name="Net-(C5-Pad2)">
+      <node ref="C5" pin="2"/>
+      <node ref="U1" pin="40"/>
+      <node ref="R3" pin="1"/>
+      <node ref="R2" pin="2"/>
+    </net>
+    <net code="98" name="Net-(C7-Pad2)">
+      <node ref="R4" pin="2"/>
+      <node ref="R5" pin="1"/>
+      <node ref="C7" pin="2"/>
+      <node ref="U1" pin="39"/>
+    </net>
+    <net code="99" name="Net-(U2-Pad7)">
+      <node ref="U2" pin="7"/>
+    </net>
+    <net code="100" name="/PWM">
+      <node ref="U1" pin="4"/>
+      <node ref="U2" pin="6"/>
+    </net>
+    <net code="101" name="Net-(U2-Pad9)">
+      <node ref="U2" pin="9"/>
+    </net>
+    <net code="102" name="Net-(R7-Pad2)">
+      <node ref="U2" pin="11"/>
+      <node ref="R7" pin="2"/>
+    </net>
+    <net code="103" name="Net-(Q2-Pad2)">
+      <node ref="Q3" pin="2"/>
+      <node ref="R6" pin="2"/>
+      <node ref="R7" pin="1"/>
+      <node ref="Q2" pin="2"/>
+    </net>
+  </nets>
+</export>
