@@ -57,19 +57,22 @@ int main(void)
 	PORTD = 0x00;
 	PORTC &= (~(1<<PC7));	// LED
 	
-	int tempWater=2;
-	int tempAir=65;
+	int tempWater=88;
+	int tempAir=88;
 
 	DISPLAY_clearDisplay();
 	while(true)
 	{
 		send("stayAlive\n");
-		DISPLAY_printTemp(233, 9);	// tempAir, tempWater
+		//DISPLAY_printTemp(0, 0);	// tempAir, tempWater
+		send("clear display...\n");
 		LED_ON;
+		DISPLAY_clearDisplay();
 		wait(2000);
 		
+		send("open display...\n");
 		LED_OFF;
-		DISPLAY_printTemp(324, 8);
+		DISPLAY_printTemp(tempAir, tempWater);
 		wait(2000);
 	}
 	

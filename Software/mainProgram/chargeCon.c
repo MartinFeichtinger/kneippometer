@@ -96,7 +96,6 @@ void CHARGECON_trackMPP(uint8_t dutyCycle, int tempAir, int duration)
 // check all meaningful dutycycles to find the MPP
 MPPData CHARGECON_findMPP(int tempAir)
 {	
-	OCR0=0;
 	
 	uint16_t VBatt=0;
 	uint16_t VBattMaxAllowed=getVBattMaxAllowed(tempAir);
@@ -115,13 +114,6 @@ MPPData CHARGECON_findMPP(int tempAir)
 	send("findMPP();\n");
 	snprintf(string, 59, "VBattMaxAllowed=%d\n", VBattMaxAllowed);			
 	send(string);*/
-	
-	wait(500);
-	data.VBattMin=readAnalogPin(VBATT);
-	data.VBattMin=(uint32_t)data.VBattMin*1000/1012;	// scale the battery voltage
-	
-	//snprintf(string, 59, "VBattMin=%d\n", data.VBattMin);			
-	//send(string);
 
 	for(int dutyCycle=75; dutyCycle<=170; dutyCycle=dutyCycle+5)		// go over all duty cycles
 	{
@@ -155,11 +147,25 @@ MPPData CHARGECON_findMPP(int tempAir)
 		//send(string);
 	}
 	
-	OCR0=0;
+	OCR0=data.mpp;	// set the PWM dutycycle to the mpp
 	
 	return data;
 }
 
+// returns the current battery voltage (the charging process must be paused)
+uint16_t CHARGECON_getVBatt(void)
+{
+	OCR0=0;		// stop the charging process
+	
+	wait(500);
+	uint16_t VBattMin=readAnalogPin(VBATT);
+	VBattMin=(uint32_t)VBattMin*1000/1012;		// scale the battery voltage
+	
+	//snprintf(string, 59, "VBattMin=%d\n", VBattMin);			
+	//send(string);
+	
+	return VBattMin;
+}
 
 // calculate maximal allowed battery chargevoltage depending on the temperature 
 static int getVBattMaxAllowed(int tempAir)

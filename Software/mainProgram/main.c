@@ -27,6 +27,7 @@ int main(void)
 	UBRRL=(unsigned char) BAUD;
 	UCSRB=(1<<RXEN)|(1<<TXEN);			// enable receiver and transmitter
 	UCSRC=(1<<URSEL)|(3<<UCSZ0);		// 8 Bit
+	send("Atmega16 is alive!\n");
 	
 	// initiate controller pins 
 	DDRA |= HIGH0|HIGH1|HIGH2|HIGH3|(1<<PA7);
@@ -52,7 +53,18 @@ int main(void)
 	// initiate variables
 	int8_t tempWater=0;
 	int8_t tempAir=0;
+	uint16_t VBatt=0;
 	MPPData data;
+	
+	// charge the battery after ervery boot to at least 6.2V
+	tempAir=SENSOR_getTemp(AIR);
+	data=CHARGECON_findMPP(tempAir);
+	
+	do{
+		CHARGECON_trackMPP(data.mpp, tempAir, 4600);		// duration=4600; => ca. 10 min
+		VBatt=CHARGECON_getVBatt();
+	}
+	while(VBatt < 620);		// VBatt < 6.2V
 	
 	// clear display for initialisation
 	DISPLAY_clearDisplay();
@@ -71,10 +83,11 @@ int main(void)
 		// findMPP() returns a struct which contains the MPP, the battery voltage and the maximal charging current
 		// it needs the Air temperatur to calculate the allowed battery voltage
 		data=CHARGECON_findMPP(tempAir);
+		VBatt=CHARGECON_getVBatt();
 		
 		// to prevent the battery from deep discharge
 		// changed
-		if(data.VBattMin > 620)
+		if(VBatt > 620)
 		{
 			DISPLAY_printTemp(tempWater, tempAir);
 			//snprintf(string, stringLen, "Wasser Temperatur =%ddeg	Luft Temperatur =%ddeg\n", tempWater, tempAir);
