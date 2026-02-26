@@ -10,3 +10,6 @@ The display consists of four 7-segment flip-disk indicators, chosen specifically
 
 ## schematic
 <img width="2339" height="1654" alt="schematic" src="https://github.com/user-attachments/assets/07b49997-b837-494e-9e21-fb8bc74c0a15" />
+
+## pcb layout
+<img width="2101" height="1287" alt="pcb" src="https://github.com/user-attachments/assets/ce27508a-8698-4f78-9aa7-2b2923215fed" />
