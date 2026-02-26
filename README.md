@@ -9,4 +9,4 @@ The Kneippometer is powered by a compact solar panel, with the generated solar e
 The display consists of four 7-segment flip-disk indicators, chosen specifically to minimize power consumption. These indicators only require energy during the flipping process, ensuring efficient operation.
 
 ## schematic
-[schmatic.pdf](https://github.com/user-attachments/files/25582467/schmatic.pdf)
+<img width="2339" height="1654" alt="schematic" src="https://github.com/user-attachments/assets/07b49997-b837-494e-9e21-fb8bc74c0a15" />
