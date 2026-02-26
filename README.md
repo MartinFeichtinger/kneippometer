@@ -7,3 +7,6 @@ This is a project to build a self-sufficient temperatur display for the local kn
 The Kneippometer is powered by a compact solar panel, with the generated solar energy stored in a 6V lead-acid battery. To optimize the charging process, we've developed an intelligent charge controller that tracks the Maximum Power Point (MPP) of the solar panel. This allows for charging at the highest possible and permissible power levels at all times.
 
 The display consists of four 7-segment flip-disk indicators, chosen specifically to minimize power consumption. These indicators only require energy during the flipping process, ensuring efficient operation.
+
+## schematic
+[schmatic.pdf](https://github.com/user-attachments/files/25582467/schmatic.pdf)
